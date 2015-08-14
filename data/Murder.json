@@ -1,0 +1,72 @@
+﻿{
+   "label":"Murder",
+   "primaryKey":"UID",
+   "fields":[
+      {
+         "name":"Street",
+         "label":"Street",
+         "type":"esriFieldTypeString",
+         "index":0
+      },
+      {
+         "name":"X",
+         "label":"X",
+         "type":"esriFieldTypeDouble",
+         "index":1
+      },
+      {
+         "name":"Y",
+         "label":"Y",
+         "type":"esriFieldTypeDouble",
+         "index":2
+      },
+      {
+         "name":"UID",
+         "label":"Unique Key",
+         "type":"esriFieldTypeOID",
+         "index":3
+      }
+   ],
+   "records":[
+      {
+         "attributes":{
+            "Street":"1900 RUNNELS ",
+            "X":-95.3520265,
+            "Y":29.7636518,
+            "UID":0
+         }
+      },
+      {
+         "attributes":{
+            "Street":"2200 HOLCOMBE BLVD",
+            "X":-95.3866029,
+            "Y":29.70639,
+            "UID":1
+         }
+      },
+      {
+         "attributes":{
+            "Street":"7000 CAPITOL ST",
+            "X":-95.30285250000001,
+            "Y":29.73409839999999,
+            "UID":2
+         }
+      },
+      {
+         "attributes":{
+            "Street":"8300 PARK PLACE BLVD",
+            "X":-95.26970209999999,
+            "Y":29.69135,
+            "UID":3
+         }
+      },
+      {
+         "attributes":{
+            "Street":"5100 TELEPHONE ",
+            "X":-95.29878099999999,
+            "Y":29.6896017,
+            "UID":4
+         }
+      }
+   ]
+}
